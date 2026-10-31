@@ -150,7 +150,7 @@ tool completely — there is no uninstaller and no registry entry.
 
 <p align="center"><a href="https://share.google/yCHZKDeVd9iop5l27"><b>📖 Instructions — Dota 2 (2026)</b></a></p>
 
-<p align="center"><sub>Shared under the MIT License · Updated 2026-10-30</sub></p>
+<p align="center"><sub>Shared under the MIT License · Updated 2026-10-31</sub></p>
 
 
-Updated 2026-10-30.
+Updated 2026-10-31.
